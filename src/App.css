@@ -3,3 +3,10 @@
   background: url(./images/back1.jpg);
   background-size: cover;
 }
+.h2-color {
+  background: url("../src/images/map4.jpg");
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
