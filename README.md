@@ -36,7 +36,7 @@ Open Command Prompt(Window) Terminal(Mac)
 
 ---
 ```bash
-https://github.com/BexFox/react-with-threeJS.git
+https://github.com/BexFox/react-three.git
 ```
 ```bash
 npm install
