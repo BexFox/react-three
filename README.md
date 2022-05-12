@@ -4,6 +4,23 @@
 </br>
 </br>
 
+## Input 3D modeling in WEB
+ref:
+[https://sketchfab.com/feed](https://sketchfab.com/feed)
+[https://github.com/CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline)
+[https://github.com/pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx)
+
+`npm install -g gltf-pipeline`
+
+If error ( `sudo` ~~~)
+
+Open Command Prompt(Window) Terminal(Mac)
+
+1. `dir`
+2. `cd Desktop` 
+3. `cd that file`
+4. `gltf-pipeline -i scene.gltf -o neon.gltf -d`
+
 ## Concepts
 - 3D modeling
 - Interaction
