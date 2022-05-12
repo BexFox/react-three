@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export default function Text() {
   return (
     <Wrapper>
-      <h2 className='h2-color'>Three.js in React</h2>
+      <h2 className="h2-color">Three.js in React</h2>
     </Wrapper>
   );
 }
@@ -17,12 +17,6 @@ const Wrapper = styled.div`
   margin: 0 auto;
   padding: 140px 20px 100px;
 
-  // Images in Letters
-  background: url('../src/images/map4.jpg');
-  background-size: cover;
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
   h2 {
     text-shadow: 1px 0px 11px #747474;
   }
