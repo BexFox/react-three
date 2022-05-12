@@ -21,6 +21,11 @@ Open Command Prompt(Window) Terminal(Mac)
 3. `cd that file`
 4. `gltf-pipeline -i scene.gltf -o neon.gltf -d`
 
+### Conclusion
+
+- Using gltf takes too much memory,
+- it’s better not to use it yet.
+
 ## Concepts
 - 3D modeling
 - Interaction
